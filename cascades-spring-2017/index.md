@@ -1,4 +1,4 @@
-## Cascades Summer 2017
+## Cascades Spring 2017
 
 *June 12, 2017*
 
