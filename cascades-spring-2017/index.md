@@ -271,6 +271,8 @@ I'm a little over a half-day away from my flight back to Connecticut, where I wi
 ![sunset](images/6_sunset.jpg)  
 *A beautiful Cascadian sunset. Mount Stuart is on the left.*
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmarcus.russi%2Fposts%2F10212571650473815&width=500" width="500" height="702" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
 [^1]: We used a 6mm tag line, a Micro Traxion, and a Tibloc (to facilitate doing the haul with feet, rather than arms). This worked quite well as a lightweight hauling setup, however putting a rotor swivel on the bag would have reduced twists in the tag line rope, which later on caused some problems.
 
 [^2]: I originally read this quote in Mark Twight's seminal book from the '90s, "Extreme Alpinism: Climbing Light, Fast, & High." To my surprise, I recently discovered that in 1983 Mark Twight nabbed the second ascent of the West Face of Colchuck Balanced Rock! The only other Cascades route with Twight history I know of is a either a [death route](http://cascadeclimbers.com/forum/ubbthreads.php/ubb/showflat/Main/10350/Number/140726) or a [fine alpine challenge](http://colinhaley.blogspot.com/2009/01/watusi-rodeo.html), depending on who's writing, so I guess it's cool to experience a shared history without getting on a gigantic Norwand in winter.
